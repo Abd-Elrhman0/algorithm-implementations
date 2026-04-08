@@ -9,11 +9,11 @@
 ### Contents
 
 1. Sorting Algorithms
-  * Bubble Sort
-  * Selection Sort
+    * Bubble Sort
+    * Selection Sort
 2. Searching Algorithms
-  * Linear Search
-  * Binary Search
+    * Linear Search
+    * Binary Search
 
 
 ...
